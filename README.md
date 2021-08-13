@@ -1,4 +1,4 @@
-## Hey 👋, I'm [DEVIN!](https://github.com/ibeatit)
+## Hey 👋, I'm [Lithium!](https://github.com/ibeatit)
 
 <img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/864190077021978655/864607949720780830/85532754.png" />
 
@@ -51,6 +51,5 @@ My Name is Devin im 17 i enjoy Coding and Much More!!!
 ---
 
 <h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
-<h3 align=center>I DID NOT MAKE THIS I STOLE THIS FROM https://github.com/NAT2K15 </h3>
 
 ---
