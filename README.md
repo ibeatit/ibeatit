@@ -33,7 +33,7 @@ My Name is Devin im 17 i enjoy Coding and Much More!!!
 <p align="left">
 <a href="https://github.com/ibeatit">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lithium0x&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilithium0x&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lithium0x&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
