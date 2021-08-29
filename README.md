@@ -15,9 +15,9 @@ My Name is Devin im 17 i enjoy Coding and Much More!!!
 
 ### Some Highlights:
 
-- 💻 &nbsp; [FiveM DOJRP Chat Look ALike](https://github.com/ibeatit/doj-chat)
-- 💻 &nbsp; [FiveM Chat Commands](https://github.com/ibeatit/chat-command)
-- 💻 &nbsp; [vMenu Edit](https://github.com/ibeatit/vMenu-Edit)
+- 💻 &nbsp; [FiveM DOJRP Chat Look ALike](https://github.com/ilithium0x/doj-chat)
+- 💻 &nbsp; [FiveM Chat Commands](https://github.com/ilithium0x/chat-command)
+- 💻 &nbsp; [vMenu Edit](https://github.com/ilithium0x/vMenu-Edit)
 
 
 
@@ -32,8 +32,8 @@ My Name is Devin im 17 i enjoy Coding and Much More!!!
 
 <p align="left">
 <a href="https://github.com/ibeatit">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ibeatit&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ibeatit&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lithium0x&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilithium0x&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
@@ -41,8 +41,8 @@ My Name is Devin im 17 i enjoy Coding and Much More!!!
 
 ### ⚙️ My Resources & Tools:
 
-- OS: Windows 10 , Mac Mojave
-- Laptop: Mac Book , Mac Mojave
+- OS: Windows 10 , Mac Big Sur
+- Laptop: Mac Book , ac Big Sur
 - Gaming PC: 2060 , AMD Ryzen 7 3700X , 16GB Ram , 2 1TB SSD , 250GB SSD, 2TB External Hard Drive , Windows 10
 - Browser: Chrome and Opera GX
 - Code Editor: VSCode 
