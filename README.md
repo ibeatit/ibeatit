@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Lithium!](https://github.com/ibeatit)
+## Hey 👋, I'm [Lithium!](https://github.com/lilithium0x)
 
 <img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/864190077021978655/864607949720780830/85532754.png" />
 
